@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Saloni-1400(Saloni), a passionate Data Analytics student eager to explore and grow in the field of data-driven insights.
+# 👋 Hi, I’m @Saloni-1400  (Saloni Kumari)
+- a passionate Data Analytics student eager to explore and grow in the field of data-driven insights.
 - 👀 I’m interested in uncovering insights from data, performing Exploratory Data Analysis (EDA), and building predictive models using Machine Learning.
 - 🌱 I’m currently learning Python, SQL, Excel, Power BI, Statistics, and Machine Learning to enhance my skills in data cleaning, analysis, visualization, and predictive analytics.
 - 💞️ I’m looking to collaborate on data analysis projects, EDA tasks, Power BI dashboards, and beginner-level Machine Learning projects.
